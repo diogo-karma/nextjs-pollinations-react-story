@@ -2,6 +2,8 @@
 
 This project demonstrates how to create dynamic storytelling experiences using [Pollinations Generative React Hooks & Components](https://www.npmjs.com/package/@pollinations/react) in a [Next.js](https://nextjs.org) environment. By integrating with the [Pollinations.ai](https://pollinations.ai) API, this example showcases how to generate text, images, and more.
 
+### Online [demo](https://storytelling.karma.yt/)
+
 ## 🚀 Getting Started
 
 ![Example](https://storytelling.karma.yt/preview-2024-09-16-15-09-21.png)
