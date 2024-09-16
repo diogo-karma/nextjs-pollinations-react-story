@@ -138,7 +138,7 @@ export default function PollinationsChat(): JSX.Element {
               Karma.yt
             </a>&nbsp;&nbsp;(
             <a
-              href="https://github.com/diogo-karma/example-nextjs-pollinations-story"
+              href="https://github.com/diogo-karma/nextjs-pollinations-react-story"
               className="text-slate-600 transition-all hover:text-black p-1"
               target="_blank"
               rel="noopener noreferrer"
