@@ -81,7 +81,6 @@ export default function PollinationsChat(): JSX.Element {
 
   // Update story lines when a new message is received
   useEffect(() => {
-    console.log(messages);
     const lastMessage = messages[messages.length - 1];
     if (lastMessage?.role === 'assistant') {
       setStoryLines(lastMessage.content.split(/\.|\n/img)
@@ -117,6 +116,7 @@ export default function PollinationsChat(): JSX.Element {
         {currentStoryPrompt && (
           <h1 className="mt-8 font-bold text-2xl max-w-7xl mx-auto">Story: {currentStoryPrompt}</h1>
         )}
+        {/* TODO: loading */}
         <div className="columns-1 md:columns-1 lg:columns-1 gap-6 my-8 max-w-7xl mx-auto">
           {storyLines.map((line, index) => (
             <StoryLineItem key={index} line={line} index={index} />
