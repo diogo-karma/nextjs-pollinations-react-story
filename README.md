@@ -1,6 +1,6 @@
 # 🌟 Dynamic Storytelling with Pollinations Generative React Hooks & Components
 
-This project demonstrates how to create dynamic storytelling experiences using [Pollinations Generative React Hooks & Components](https://www.npmjs.com/package/@pollinations/react) in a [Next.js](https://nextjs.org) environment. By integrating with the [Pollinations.ai](https://pollinations.ai) API, this example showcases how to generate text, images, and more, all from user prompts—unlocking a wide range of generative content creation.
+This project demonstrates how to create dynamic storytelling experiences using [Pollinations Generative React Hooks & Components](https://www.npmjs.com/package/@pollinations/react) in a [Next.js](https://nextjs.org) environment. By integrating with the [Pollinations.ai](https://pollinations.ai) API, this example showcases how to generate text, images, and more.
 
 ## 🚀 Getting Started
 
@@ -11,8 +11,8 @@ Follow these steps to set up and run the project:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/diogo-karma/pollinations-storytelling
-    cd karma
+    git clone https://github.com/diogo-karma/nextjs-pollinations-react-story
+    cd pollinations-storytelling
     ```
 
 2. **Install dependencies**:
@@ -97,7 +97,7 @@ export default SunsetImage;
 ## 💡 Learn More
 
 - Explore the [Pollinations Generative React Hooks & Components](https://www.npmjs.com/package/@pollinations/react) on npm.
-- Visit [KARMA.YT](https://karma.yt) to discover more about the project.
+- [Chat bot example](https://github.com/pollinations/karma) to discover more about the project.
 - Learn more about [Pollinations.ai](https://pollinations.ai/readme).
 
 ### Made with ❤️ by [KARMA.YT](https://karma.yt) and [Pollinations.ai](https://pollinations.ai) Team
